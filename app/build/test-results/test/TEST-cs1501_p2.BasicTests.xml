@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p2.BasicTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-18T02:22:25" hostname="Lukes-MBP.lan" time="0.04">
+  <properties/>
+  <testcase name="Testing DLB" classname="cs1501_p2.BasicTests" time="0.032"/>
+  <testcase name="Testing AutoCompleter" classname="cs1501_p2.BasicTests" time="0.006"/>
+  <testcase name="Testing UserHistory" classname="cs1501_p2.BasicTests" time="0.001"/>
+  <system-out><![CDATA[file already exists
+file already exists
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
